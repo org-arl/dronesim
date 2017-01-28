@@ -1,3 +1,18 @@
+###############################################################################
+#
+# Drone Simulator
+#
+# Copyright (c) 2017, Mandar Chitre
+#
+# This file is part of dronesim which is released under Simplified BSD License.
+# See file LICENSE or go to http://www.opensource.org/licenses/BSD-3-Clause
+# for full license details.
+#
+# Developed at the National University of Singapore (NUS)
+# as part of EG1112: Engineering Principles & Practice (EPP) II
+#
+###############################################################################
+
 import numpy as _np
 import vpython as _vp
 import transforms3d.euler as _euler
