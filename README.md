@@ -16,8 +16,8 @@ To use the simulator, you need the following:
 
 dronesim is tested on Enthought Canopy running Python 2.7 and with vpython and transforms3d installed using:
 
-> $ pip install vpython
-> $ pip install transforms3d
+    $ pip install vpython
+    $ pip install transforms3d
 
 ## Testing
 
